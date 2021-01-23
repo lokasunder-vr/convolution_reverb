@@ -12,9 +12,7 @@ Space Simulations.
 
 ### Pre-existing libraries:
 -> scipy.io
-
 -> numpy
-
 -> matplotlib.pyplot
 
 -> sounddevice
