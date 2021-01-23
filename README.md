@@ -53,6 +53,9 @@ channel sound field) rotation count. The final signal is panned left and right g
 per the number of times the user entry in panning rotation count. Finally, the signal is converted
 into an uncompressed universal audio file format (.wav). If required the user can download the
 final audio file in .wav file format.
+**IDE Used:** Python 3.8 Anaconda Distribution → Jupyter Notebook
 
-## **IDE Used:** Python 3.8 Anaconda Distribution → Jupyter Notebook
-## This program is designed to run in **NOTEBOOK IDE**
+## DISCLIAMER:
+### The audio files used are COPYRIGHTED TO THE RESPECTIVE OWNERS, these files can be used for educational purposes only.
+### Use the audio files provided as the program is designed to run with audio files with sample rate of 44100Hz (modification is easy, you can change it).
+### This program is designed to run in **NOTEBOOK IDE**
