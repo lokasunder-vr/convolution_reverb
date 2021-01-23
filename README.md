@@ -1,4 +1,4 @@
-#**CONVOLUTION REVERB**
+# **CONVOLUTION REVERB**
 
 Convolution reverb is an exciting technique of bringing new space into the sounds. The
 program built in Python 3 digitally simulates the reverberation of a physical or virtual acoustic
@@ -8,9 +8,9 @@ acoustic space. The output audio signal reflects the sonic qualities of the sele
 environment. This technique is widely used in Electronic Music, Machine Simulation and Real
 Space Simulations.
 
-##**Libraries:**
+## **Libraries:**
 
-###Pre-existing libraries:
+### Pre-existing libraries:
 -> scipy.io                             
 -> numpy
 -> matplotlib.pyplot
@@ -18,13 +18,13 @@ Space Simulations.
 -> time
 -> sys
 
-###Need to pip install:
+### Need to pip install:
 -> tqdm
 -> ipython
->from tqdm import tqdm_notebook as tqdm'
->from IPython.display import Audio'
+>from tqdm import tqdm_notebook as tqdm
+>from IPython.display import Audio
 
-##**Description:**
+## **Description:**
 The program convolves an input signal with the impulse response of an actual or a virtual
 acoustic space creating an illusion as if the input signal was recorded in that acoustic space.
 Impulse response is a short and a sharp sound like the sound of a gunshot, church bell and
