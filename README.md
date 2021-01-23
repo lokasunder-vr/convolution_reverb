@@ -11,17 +11,25 @@ Space Simulations.
 ## **Libraries:**
 
 ### Pre-existing libraries:
--> scipy.io                             
+-> scipy.io
+
 -> numpy
+
 -> matplotlib.pyplot
+
 -> sounddevice
+
 -> time
+
 -> sys
 
 ### Need to pip install:
 -> tqdm
+
 -> ipython
+
 >from tqdm import tqdm_notebook as tqdm
+
 >from IPython.display import Audio
 
 ## **Description:**
