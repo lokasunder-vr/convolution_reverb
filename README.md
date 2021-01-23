@@ -12,7 +12,9 @@ Space Simulations.
 
 ### Pre-existing libraries:
 -> scipy.io
+
 -> numpy
+
 -> matplotlib.pyplot
 
 -> sounddevice
@@ -51,3 +53,6 @@ channel sound field) rotation count. The final signal is panned left and right g
 per the number of times the user entry in panning rotation count. Finally, the signal is converted
 into an uncompressed universal audio file format (.wav). If required the user can download the
 final audio file in .wav file format.
+
+## **IDE Used:** Python 3.8 Anaconda Distribution → Jupyter Notebook
+## This program is designed to run in **NOTEBOOK IDE**
