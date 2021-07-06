@@ -1,4 +1,4 @@
-# **CONVOLUTION REVERB**
+# **CONVOLUTION REVERB With STEREO PANNING**
 
 Convolution reverb is an exciting technique of bringing new space into the sounds. The
 program built in Python 3 digitally simulates the reverberation of a physical or virtual acoustic
@@ -12,20 +12,14 @@ Space Simulations.
 
 ### Pre-existing libraries:
 -> scipy.io
-
 -> numpy
-
 -> matplotlib.pyplot
-
--> sounddevice
-
 -> time
-
 -> sys
 
 ### Need to pip install:
 -> tqdm
-
+-> sounddevice
 -> ipython
 
 >from tqdm import tqdm_notebook as tqdm
@@ -56,6 +50,6 @@ final audio file in .wav file format.
 **IDE Used:** Python 3.8 Anaconda Distribution → Jupyter Notebook
 
 ## DISCLIAMER:
-### The audio files used are COPYRIGHTED TO THE RESPECTIVE OWNERS, these files can be used for educational purposes only.
+### The audio files used are COPYRIGHTED TO THE RESPECTIVE OWNERS, these files are used for educational purposes only.
 ### Use the audio files provided as the program is designed to run with audio files with sample rate of 44100Hz (modification is easy, you can change it).
 ### This program is designed to run in **NOTEBOOK IDE**
