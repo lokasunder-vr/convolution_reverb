@@ -1,4 +1,4 @@
-# **CONVOLUTION REVERB With STEREO PANNING**
+# **CONVOLUTION REVERB WITH STEREO PANNING**
 
 Convolution reverb is an exciting technique of bringing new space into the sounds. The
 program built in Python 3 digitally simulates the reverberation of a physical or virtual acoustic
